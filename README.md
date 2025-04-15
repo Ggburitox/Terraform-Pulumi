@@ -1,5 +1,5 @@
 # Terraform-Pulumi
-En este repositori se encuentran los codigos los cuales usamos para configurar el stack con los respectivos requisitos que se nos pidio:
+En este repositorio se encuentran los codigos los cuales usamos para configurar el stack con los respectivos requisitos que se nos pidio:
 - Usar la AMI de “Cloud9ubuntu22”
 - par de claves "vockey"
 - Puertos abiertos 22(SSH) y 80(HTTP)
